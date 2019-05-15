@@ -1,0 +1,10 @@
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\bin\Debug\SeupetTela.exe.config
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\bin\Debug\SeupetTela.exe
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\bin\Debug\SeupetTela.pdb
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.csprojAssemblyReference.cache
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.Form1.resources
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.Properties.Resources.resources
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.csproj.GenerateResource.cache
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.csproj.CoreCompileInputs.cache
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.exe
+C:\Users\barbosa\source\repos\SeupetTela\SeupetTela\obj\Debug\SeupetTela.pdb
